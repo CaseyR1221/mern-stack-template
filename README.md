@@ -21,7 +21,7 @@
   ## Usage
   ###### [Back to Table of Contents](#Table-of-Contents)
   
-  ![File path](https://user-images.githubusercontent.com/44381344/130702546-5c897475-2dd3-4022-a1bd-742e485c5d61.png)
+  ![File path](https://user-images.githubusercontent.com/44381344/130703672-7e46ba1b-a132-42c6-95c7-442059c3dcc0.jpeg)
 
    
  ## License
